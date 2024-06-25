@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Aora",
+    "slug": "Aora",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "3a05fe8a-0159-4c2a-a6f7-bab789bf687f"
+      }
+    }
+  },
+  "name": "Aora"
+}
